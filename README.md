@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Joel and I'm a Software Developer, from Cuenca, Ecuador <img src="https://flagcdn.com/ec.svg" height="20" alt="flutter logo"  /> </p>
+<p align="left">My name is Joel and I'm a Software Developer, from Cuenca, Ecuador  <img src="https://flagcdn.com/ec.svg" height="10" /> </p>
 
 ###
 
