@@ -1,8 +1,8 @@
-<h1 align="left">Hey <img src="https://camo.githubusercontent.com/2a873cbacb080b0ff4cfad981480b78921acea9e038a80e81ea95657a4da554f/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035" height="30"> What's up?</h1>
+<h1 align="left">Hey <img src="https://camo.githubusercontent.com/2a873cbacb080b0ff4cfad981480b78921acea9e038a80e81ea95657a4da554f/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035" height="40"> What's up?</h1>
 
 ###
 
-<p align="left">My name is Joel and I'm a Software Developer, from Cuenca, Ecuador</p>
+<p align="left">My name is Joel and I'm a Software Developer, from Cuenca, Ecuador <img src="https://flagcdn.com/ec.svg" height="30" alt="flutter logo"  /> </p>
 
 ###
 
