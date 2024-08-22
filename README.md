@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Software developer 2022 ...<br>📚 I'm currentl learning Flutter and Python ...<br>🎯 Goals: .Learnig Ingles and create and nice software..<br>🎲 Learn about good software development agreements and create innovative products</p>
+<p align="left">✨ Software developer 2022 ...<br>📚 I'm currentl learning Flutter and Python ...<br>🎯 Goals: learnning Ingles and create a nice software..<br>🎲 Learn about good software development agreements and create innovative products</p>
 
 ###
 
